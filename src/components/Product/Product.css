@@ -33,8 +33,13 @@ margin-top: 7px;
     border-bottom-right-radius: 8px;
     position: absolute;
     bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
-
+.btn-cart .btn-text{
+margin-right: 5px;
+}
 .btn-cart:hover{
     background-color:tomato;
     border: 1px solid rgb(12, 12, 12)

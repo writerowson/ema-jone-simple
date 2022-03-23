@@ -12,10 +12,9 @@
 }
 
 .cart-container{
-    background-color: rgb(245, 80, 51);
+    background-color: rgb(247, 175, 162);
     border:1px solid gray;
-align-items: center;    
-justify-content: center;
+
 
 }
 /* @media screen  and (max-width:1100px){
